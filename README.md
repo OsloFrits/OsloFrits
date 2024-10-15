@@ -23,4 +23,4 @@
 
 ##
 
-![snake gif](https://github.com/OsloFrits/OsloFrits/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/OsloFrits/OsloFrits/blob/output/github-contribution-grid-snake-dark.svg)
