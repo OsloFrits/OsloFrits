@@ -2,7 +2,7 @@
 
 ---
 
-<p>&nbsp;<img align="center" width="400cm" src="https://github-readme-stats.vercel.app/api?username=Oslofrits&show_icons=true&theme=radical&locale=en" alt="Oslofrits" /></p>
+<p>&nbsp;<img align="rigth" width="400cm" src="https://github-readme-stats.vercel.app/api?username=Oslofrits&show_icons=true&theme=radical&locale=en" alt="Oslofrits" /></p>
 <p><img align="center" width="300cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=Oslofrits&show_icons=true&theme=radical&locale=en&layout=compact" alt="Oslofrits" /></p>
 
 ---
@@ -23,4 +23,3 @@
 
 ##
 
-![snake gif](https://github.com/OsloFrits/OsloFrits/blob/output/github-contribution-grid-snake-dark.svg)
